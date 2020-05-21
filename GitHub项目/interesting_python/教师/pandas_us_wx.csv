@@ -1,0 +1,11 @@
+,Unnamed: 0,state,year,pop,salary,type,salary_clean
+0,0,Ohio1,2000,1.5,1000K/MTH - 20000K/MTH,幼儿园,10.5
+1,1,Ohio1,2001,1.7,7K/MTH - 8K/MTH,幼儿园,7.5
+2,2,Ohio2,2002,3.6,10000K/MTH - 16000K/MTH,幼儿园,13.0
+3,3,Nevada3,2001,2.4,3K/MTH - 5K/MTH,幼儿园,4.0
+4,4,Nevada3,2002,2.9,7K/MTH - 12K/MTH,幼儿园,9.5
+0,0,Ohio2,2002,1.52,5000K/MTH - 20000K/MTH,中小学,12.5
+1,1,Ohio2,2012,1.72,12K/MTH - 19K/MTH,中小学,15.5
+2,2,Ohio2,2022,3.62,4000K/MTH - 6000K/MTH,中小学,5.0
+3,3,Nevada2,2012,2.42,14000K/MTH - 22000K/MTH,中小学,18.0
+4,4,Nevada2,2022,2.92,8000K/MTH - 20000K/MTH,中小学,14.0
